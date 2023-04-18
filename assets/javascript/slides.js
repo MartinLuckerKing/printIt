@@ -14,7 +14,7 @@ export const arrowRight = document.querySelector('.arrow_right');
 
 export const slide = (direction) => {
 
-    const rootDir = "./assets/images/slideshow/";
+    const rootDir = "./../assets/images/slideshow/";
     const images = document.querySelector(".banner-img");
     const tagLines = document.querySelector("#tagline");
 
